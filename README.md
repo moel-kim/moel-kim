@@ -5,7 +5,7 @@
 - Spaceship 🚀
 - Human Brain 🧠
 - Kardashev scale 🌌
-- Semantic relationship
+- Semantic relationship / Propagation
 
 
 ### 📝 Recent Posts
