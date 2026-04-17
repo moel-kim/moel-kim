@@ -2,8 +2,9 @@
 
 ### 🧠 Interests
 - Philosophy
-- Human Brain
 - Spaceship 🚀
+- Human Brain 🧠
+- Kardashev scale 🌌
 - Semantic relationship
 
 
