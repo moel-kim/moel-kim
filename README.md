@@ -4,7 +4,7 @@
 - Philosophy
 - Spaceship 🚀
 - Human Brain 🧠
-- Kardashev scale 🌌
+- Kardashev scale
 - Semantic relationship & Propagation
 
 
