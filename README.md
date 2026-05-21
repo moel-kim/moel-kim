@@ -9,5 +9,5 @@
 
 
 ### 📝 Recent Posts
-- [Meaning of following fundamentals](https://moel-kim.github.io/blog/essay/thinking-about-fundamental)
 - [[Linguistics][JS] Prototype](https://moel-kim.github.io/blog/language/fundamental-javascript)
+- [Meaning of following fundamentals](https://moel-kim.github.io/blog/essay/thinking-about-fundamental)
