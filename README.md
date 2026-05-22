@@ -1,10 +1,9 @@
 ## Kim, Dong-Wook
 
 ### 🧠 Interests
+- Brain 🧠
 - Philosophy
 - Spaceship 🚀
-- Human Brain 🧠
-- Kardashev scale
 - Semantic relationship & Propagation
 
 
