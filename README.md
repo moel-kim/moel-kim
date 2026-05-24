@@ -3,7 +3,7 @@
 ### 🧠 Interests
 - Brain 🧠
 - Philosophy
-- Spaceship 🚀
+- Spaceship 🚀, Outside of Saturn
 - Semantic relationship & Propagation
 
 
