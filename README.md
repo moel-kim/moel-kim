@@ -1,6 +1,6 @@
 ## Kim, Dong-Wook
 
-[Blog](https://philosophy-blog.kromakey.io/)
+[Blog](https://blog.kromakey.io/)
 
 ### 🧠 Interests
 - Brain 🧠
